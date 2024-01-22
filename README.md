@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/JonKnitt1205/social-card-challenge)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://jonknitt1205.github.io/social-card-challenge/)
 
 ## My process
 ### What I learned
@@ -44,4 +44,4 @@ This is my second challenge and I am starting to get faster and more confident w
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/JonKnitt1205)
+- Frontend Mentor - [@JonKnitt1205](https://www.frontendmentor.io/profile/JonKnitt1205)
